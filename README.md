@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MCLoren45
-- 👀 I’m interested in computer science 
+- 💻 I’m interested in computer science 
 - 🌱 I’m currently learning web developing 
                                
 <!---
